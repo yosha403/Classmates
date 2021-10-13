@@ -1,0 +1,14 @@
+C:\Users\YKunnummal\source\repos\Classmates\bin\Debug\netcoreapp3.1\Classmates.exe
+C:\Users\YKunnummal\source\repos\Classmates\bin\Debug\netcoreapp3.1\Classmates.deps.json
+C:\Users\YKunnummal\source\repos\Classmates\bin\Debug\netcoreapp3.1\Classmates.runtimeconfig.json
+C:\Users\YKunnummal\source\repos\Classmates\bin\Debug\netcoreapp3.1\Classmates.runtimeconfig.dev.json
+C:\Users\YKunnummal\source\repos\Classmates\bin\Debug\netcoreapp3.1\Classmates.dll
+C:\Users\YKunnummal\source\repos\Classmates\bin\Debug\netcoreapp3.1\Classmates.pdb
+C:\Users\YKunnummal\source\repos\Classmates\obj\Debug\netcoreapp3.1\Classmates.csproj.AssemblyReference.cache
+C:\Users\YKunnummal\source\repos\Classmates\obj\Debug\netcoreapp3.1\Classmates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YKunnummal\source\repos\Classmates\obj\Debug\netcoreapp3.1\Classmates.AssemblyInfoInputs.cache
+C:\Users\YKunnummal\source\repos\Classmates\obj\Debug\netcoreapp3.1\Classmates.AssemblyInfo.cs
+C:\Users\YKunnummal\source\repos\Classmates\obj\Debug\netcoreapp3.1\Classmates.csproj.CoreCompileInputs.cache
+C:\Users\YKunnummal\source\repos\Classmates\obj\Debug\netcoreapp3.1\Classmates.dll
+C:\Users\YKunnummal\source\repos\Classmates\obj\Debug\netcoreapp3.1\Classmates.pdb
+C:\Users\YKunnummal\source\repos\Classmates\obj\Debug\netcoreapp3.1\Classmates.genruntimeconfig.cache
